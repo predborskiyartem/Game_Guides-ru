@@ -1,1 +1,1 @@
-# GuideOfGame
+# Guide
